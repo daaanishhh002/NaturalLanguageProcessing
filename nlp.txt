@@ -1,0 +1,24 @@
+1. nlp with class and vect spaces
+- sent anal w log reg
+- sent anal w nb
+- pca
+- translation
+
+2. nlp with prob
+- autocorrect
+- pos with mm
+- autocomplete
+- embeddings
+- cbow
+
+3. nlp with seq
+- rnns grus
+- sent w dnn
+- lstms and ner
+- Siamese and duplicates
+
+4. nlp with attn
+- seq2seq and eng2ger
+- trans and summariser
+- trans learn
+- bert and qna
